@@ -3,8 +3,8 @@
 <h4>I am currently pursuing a master's in Data Science at the University of British Columbia, with an expected graduation of June 2024. I am actively looking for data science and machine learning opportunities!<h4>
 
 <p align="center">
-  <a href="https://linkedin.com/in/lauren-zung/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-  <a href="https://lzung.github.io/" target="_blank"><img height="25" src="https://img.shields.io/badge/Portfolio Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/christopherprasetyamulya/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="https://cprasetya2000.wixsite.com/christopher-mulya" target="_blank"><img height="25" src="https://img.shields.io/badge/Portfolio Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 </p>
   
 ----
